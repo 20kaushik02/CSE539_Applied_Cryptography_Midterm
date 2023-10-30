@@ -2,7 +2,7 @@
 
 ## Setup and requirements
 
-- Recommended Python version: 3.10.5 or later
+- Minimum required Python version: 3.6
 - Install packages from requirements.txt
 
 ## Run program
